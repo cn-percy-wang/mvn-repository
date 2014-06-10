@@ -1,0 +1,12 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jun 10 22:09:06 CST 2014
+http\://mavensync.zkoss.org/maven2/.error=
+http\://repo.springsource.org/libs-snapshot/.error=
+http\://maven.lib.umd.edu/maven2/.lastUpdated=1402409341650
+https\://raw.github.com/cn-percy-wang/mvn-repo/.lastUpdated=1402409346609
+http\://mavensync.zkoss.org/maven2/.lastUpdated=1402409342403
+http\://repo.maven.apache.org/maven2/.lastUpdated=1402409338945
+http\://repo.maven.apache.org/maven2/.error=
+https\://raw.github.com/cn-percy-wang/mvn-repo/.error=
+http\://repo.springsource.org/libs-snapshot/.lastUpdated=1402409341073
+http\://maven.lib.umd.edu/maven2/.error=
